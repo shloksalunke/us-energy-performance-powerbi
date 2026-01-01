@@ -1,4 +1,5 @@
-🔹 U.S. Energy Performance Analytics Dashboard (Power BI)
+ U.S. Energy Performance Analytics Dashboard (Power BI)
+
 📌 Project Overview
 
 This project is a Business Intelligence analytics solution developed in 2025 using Power BI, focused on analyzing U.S. energy performance using historical datasets from 2023–2024.
