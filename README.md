@@ -1,4 +1,4 @@
- U.S. Energy Performance Analytics Dashboard (Power BI)
+***U.S. Energy Performance Analytics Dashboard (Power BI)***
 
 📌 Project Overview
 
