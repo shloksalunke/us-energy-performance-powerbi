@@ -1,72 +1,150 @@
-***U.S. Energy Performance Analytics Dashboard (Power BI)***
-
+U.S. Energy Performance Analytics Dashboard (Power BI)
 📌 Project Overview
 
- This project is a Business Intelligence analytics solution developed in 2025 using Power BI, focused on analyzing U.S. energy performance using historical datasets from 2023–2024.
+The U.S. Energy Performance Analytics Dashboard is a Business Intelligence (BI) analytics project developed in 2025 using Power BI, focused on analyzing U.S. energy performance data from 2023–2024.
 
- The dashboard provides insights into renewable vs non-renewable energy consumption, carbon emissions, energy cost efficiency, and regional sustainability performance.
- It demonstrates an end-to-end BI workflow, from data preparation and modeling to advanced analytics and visualization.
+This project provides data-driven insights into:
 
-🛠️ Tools & Technologies
+Renewable vs non-renewable energy consumption
 
- Power BI
+Carbon emissions and sustainability
 
- DAX (Data Analysis Expressions)
+Energy cost efficiency
 
- Data Cleaning & Transformation
+Regional and city-level performance
 
- Data Modeling (Star Schema)
+It demonstrates a complete end-to-end BI workflow, starting from raw data preparation to advanced analytics and interactive dashboards.
 
- Time-Series & Geographical Analytics
+🎯 Project Objectives
+
+Analyze U.S. energy consumption patterns
+
+Compare renewable and non-renewable energy usage
+
+Measure carbon emission impact by region
+
+Identify cost-efficient and sustainable regions
+
+Perform Year-over-Year (YoY) performance comparison
+
+🛠️ Tools & Technologies Used
+
+Power BI
+
+DAX (Data Analysis Expressions)
+
+Data Cleaning & Transformation
+
+Star Schema Data Modeling
+
+Time-Series Analysis
+
+Geographical & Regional Analytics
 
 🧱 Data Modeling & Architecture
 
- Designed a star-schema data model consisting of:
+The project follows a Star Schema architecture for better performance and scalability.
 
- Fact tables for energy consumption, emissions, and weather data
+📌 Fact Tables
 
- Dimension tables for date, location, and energy type
+Energy Consumption
 
- Built and managed relationships to enable accurate aggregations and slicing.
+Carbon Emissions
 
- Optimized the model for analytical performance and scalability.
+Weather Data
+
+📌 Dimension Tables
+
+Date
+
+Location (City, State, Region)
+
+Energy Type (Renewable / Non-Renewable)
+
+✔ Key Highlights
+
+Proper relationship management between fact and dimension tables
+
+Optimized data model for fast slicing, filtering, and aggregation
+
+Designed for analytical accuracy and scalability
 
 🔍 Key Analytics & Insights
 
- Renewable vs non-renewable energy share analysis
+Renewable vs Non-Renewable Energy Share Analysis
 
- Energy cost vs emission factor relationship by region
+Energy Cost vs Emission Factor comparison by region
 
- Regional efficiency comparison (East, West, Midwest, South)
+Regional efficiency comparison:
 
- Year-over-Year (YoY) comparison between 2023 and 2024
+East
 
- City-level and location-based performance insights
+West
 
- Monthly, quarterly, and yearly trend analysis
+Midwest
 
- Weather impact indicators (wind speed, temperature, solar radiation)
+South
+
+Year-over-Year (2023 vs 2024) performance analysis
+
+City-level and location-based insights
+
+Monthly, quarterly, and yearly trend analysis
+
+Weather impact indicators:
+
+Wind Speed
+
+Temperature
+
+Solar Radiation
 
 📊 Dashboards Included
 
- Energy Performance Overview
+Energy Performance Overview
 
- Regional Insights & Efficiency Analysis
+Regional Insights & Efficiency Analysis
 
- Research & Sustainability Analytics
+Research & Sustainability Analytics
 
- Geographical Energy Distribution
+Geographical Energy Distribution
 
- Year-over-Year Comparative Analysis
+Year-over-Year Comparative Analysis
+
+Each dashboard is interactive and designed to support data-driven decision making.
 
 👤 My Role & Contribution
 
- This was a group-based academic project, where I independently handled the core BI development, including:
+This was a group-based academic project, where I independently handled the core BI development, including:
 
- Data extraction, cleaning, and transformation
+Data extraction, cleaning, and transformation
 
- Data schema design and relationship building
+Designing the star-schema data model
 
- Writing advanced DAX measures for KPIs
+Building and managing table relationships
 
- Developing most of the interactive dashboards and visuals
+Writing advanced DAX measures for KPIs
+
+Developing most of the interactive dashboards and visuals
+
+🚀 Key Learnings
+
+Real-world BI project workflow
+
+Advanced DAX for KPI calculations
+
+Performance-optimized data modeling
+
+Translating raw data into actionable insights
+
+Designing professional analytical dashboards
+
+📌 Future Enhancements
+
+Integration of real-time energy data APIs
+
+Predictive analytics using ML models
+
+Deeper sustainability and carbon forecasting
+
+Automated refresh pipelines
